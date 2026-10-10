@@ -1,0 +1,19 @@
+# Keil build output
+/project/Objects/
+/project/Listings/
+
+# Keil user settings and debugger logs
+*.uvguix.*
+/project/JLinkLog.txt
+/project/JLinkSettings.ini
+/project/.vscode/*.log
+/project/.vscode/*.log.lock
+
+# Local Codex environment settings
+/.codex/
+
+# Operating system temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
